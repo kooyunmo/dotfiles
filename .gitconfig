@@ -1,6 +1,6 @@
 [user]
-  email = jwnchung@umich.edu
-  name = Jae-Won Chung
+  email = yunmorning@friendli.ai
+  name = Yunmo Koo
 [alias]
   last = log -1 HEAD
   unstage = reset HEAD --
